@@ -61,7 +61,7 @@ def load_config():
         "api_key": DEFAULT_API_KEY,
         "base_url": DEFAULT_BASE_URL,
         "model": DEFAULT_MODEL,
-        "language": "English"
+        "language": "Spanish"
     }
 
 def save_config(config):
