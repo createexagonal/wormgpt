@@ -45,8 +45,8 @@ CONFIG_FILE = "wormgpt_config.json"
 PROMPT_FILE = "system-prompt.txt"  # 🧩 Local system prompt file
 DEFAULT_API_KEY = ""
 DEFAULT_BASE_URL = "https://openrouter.ai/api/v1"
-DEFAULT_MODEL = "deepseek/deepseek-chat-v3-0324:free"
-SITE_URL = ""
+DEFAULT_MODEL = "openai/gpt-3.5-turbo"
+SITE_URL = "https://github.com/createexagonal/wormgpt.git"
 SITE_NAME = "WormGPT CLI"
 SUPPORTED_LANGUAGES = ["English", "Indonesian", "Spanish", "Arabic", "Thai", "Portuguese"]
 
